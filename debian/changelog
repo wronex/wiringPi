@@ -1,3 +1,9 @@
+wiringpi (2.20) unstable; urgency=low
+
+  * Snapshots in the 2.20 series.
+
+ -- wronex (http://wronex.com) <wronex@gmail.com>  Fri, 29 Aug 2014 14:04:12 +0200
+
 wiringpi (2.13) unstable; urgency=low
 
   * Snapshots in the 2.13+14 series.

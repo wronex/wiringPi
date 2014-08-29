@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0), devscripts
 Standards-Version: 3.9.3
 Homepage: http://wiringpi.com/
 Vcs-Git: git://git.drogon.net/wiringPi
-Vcs-Browser: 
+Vcs-Browser:
 
 Package: wiringpi
 Architecture: any

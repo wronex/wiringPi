@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.o
+devLib/libwiringPiDev.so*
+wiringPi/libwiringPi.so*
+gpio/gpio
+
+# Ignore files created when packaging
+debian/files
+debian/*.log
+debian/*.substvars
+debian/wiringpi/
+gpio/gpio.1.gz

@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 29 Aug 2014 09:39:18 +0200
+Source: wiringpi
+Binary: wiringpi
+Architecture: source armhf
+Version: 2.20
+Distribution: unstable
+Urgency: low
+Maintainer: Hamish Cunningham (http://gate.ac.uk/hamish/) <hamish@gate.ac.uk>
+Changed-By: Erik Alveflo (Pluspole AB) <erik.alveflo@pluspole.se>
+Description: 
+ wiringpi   - A GPIO library for the Raspberry Pi by Gordon Henderson
+Changes: 
+ wiringpi (2.20) unstable; urgency=low
+ .
+   * Snapshots in the 2.20 series.
+Checksums-Sha1: 
+ a378f95e02d3d3fe1ccd95fea41cb775af33d53b 1160 wiringpi_2.20.dsc
+ 4833356df2753d32ef7aee4e62b1fbd12e60eb9f 122745 wiringpi_2.20.tar.gz
+ 8c0761d42deee7915026ff7b771727b932a78186 50008 wiringpi_2.20_armhf.deb
+Checksums-Sha256: 
+ 5a312c75dbce7e498477aaeeb3de36ab1998a37257624b57f472effa0f252a4f 1160 wiringpi_2.20.dsc
+ d9773ea7e7553ef1137cfc5a3ce7cebc4d8c24c831ffe84cb77f790e86bd4bf9 122745 wiringpi_2.20.tar.gz
+ 02ffafee0441590c4cdbe567277243209fa7737c92aad3ef811d15082476987e 50008 wiringpi_2.20_armhf.deb
+Files: 
+ 065f397581b8e9adb8bb0fff2506d01f 1160 admin optional wiringpi_2.20.dsc
+ a17cbab660154b266926b3ee76cef1a0 122745 admin optional wiringpi_2.20.tar.gz
+ 9ff8fa8bdc329f6c0a05c8586df0c9d9 50008 admin optional wiringpi_2.20_armhf.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUAGbPAAoJEM3FgUyCg2ziFRQIAMTofGXeD2GqlAbG6/2/mTBp
+mqbObHrm6GfnZF3CgB9Atnpuc+guUOd7sD1S1+f93U/MCtYJZ9PgWjBsg2tZnwNA
+rSvxVTa7gHPObv/tg9Thh+2UsWr7vIgN6k5cP10p+8kAqn5mKOYAytKdbv6r8j2S
++MFmB+Fgqh/tMnXDfbeyKZP96cq8rPlMX/RNTlKPSKctWB/7FvEaH4qumBvhx/5q
+8QzQC6gwqKZiGGS0LxGrsnGNGR1P6ffJo0b/EHN5yLISwMZEgk5xgyJ4NFJXl6WR
+JC1+kDgQLV2vZf6ZQETqbbjPXYhZkMRp0vYo5RUOpBrgwx4u1biNr8wHJIV36E4=
+=tbuZ
+-----END PGP SIGNATURE-----
